@@ -1,4 +1,6 @@
-jvm-tap
-=======
+Homebrew formulas
 
-JVM related homebrew formulas
+Usage:
+
+  brew tap johanhammar/homebrew-stuff
+  brew install ...
